@@ -4,7 +4,7 @@
 
 
 #### Backend dev and Pentest
-i'm youssef from morocco, and i'm a backend developer and cybersecurity enthusiast, I really enjoy learning programming languages like Express, as well as i do some ctf from time to time
+i'm youssef from morocco, and i'm a backend developer and cybersecurity enthusiast, I really enjoy learning programming languages and frameworks like Express, as well as i do some ctf from time to time
 
 Skills: NODE JS / REACT / JS / HTML / CSS / PYTHON
 
