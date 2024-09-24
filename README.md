@@ -11,8 +11,9 @@ Skills: NODE JS / REACT / JS / HTML / CSS / PYTHON
 
 - 🔭 I’m currently working on this page. 
 - 🌱 I’m currently learning Red Teaming 
+- 😄 Pronouns: Linux/Unix 
+- ⚡ Fun fact: i eat linux for breakfast  
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/www.linkedin.com/in/youssef-mouslim-0exe/)  
-
 
